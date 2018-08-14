@@ -1,0 +1,31 @@
+testCheese:
+  aroma: lanoline
+  colour: yellow
+  country_origin: France
+  flavour: burnt caramel
+  img-url: https://www.cheese.com/alphabetical/?/media/img/cheese/wiki/abbaye-de-belloc.jpg
+  info: '
+
+    Abbaye de Belloc is also known as ''Abbaye Notre-Dame de Belloc'' since it was
+    produced by the Benedictine monks at the ''Abbaye de Notre Dame de Belloc'' in
+    the Pays Basque region of Aquitaine, France. They used sheep milk available in
+    the locality and followed a cheese making process that dates back to 3000 years.
+
+    Abbaye de Belloc is a flat wheel shaped traditional, farmhouse, unpasteurised,
+    semi-hard cheese made from sheep''s milk. It has a natural, crusty, brownish rind
+    with patches of red, orange and yellow. The rind is marked with tiny craters.
+
+    The cheese has a firm, dense, rich and creamy texture. The taste resembles burnt
+    caramel and there is a distinctive lanolin aroma. Ageing process of the cheese
+    ranges from four to ten months. The younger wheels are made in December while
+    the older in July. Both types of cheese wheels are sent to the market in April.
+
+    '
+  made: Made from unpasteurized cow's and sheep's milk
+  producers: Abbaye de Notre-Dame de Belloc
+  region: Pays Basque
+  rind: natural
+  synonyms: Abbaye Notre-Dame de Belloc
+  texture: creamy, dense and firm
+  type: semi-hard, artisan
+  vegetarian: 'yes'
